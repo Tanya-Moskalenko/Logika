@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid green;
+    border-radius: 20px;
+}
+
+footer p {
+    border: 8px solid pink;
+    padding: 8px;
+}
+
+footer p {
+    border: 8px solid pink;
+    padding: 8px;
+}
+
+footer p {
+    border: 8px solid pink;
+    padding: 8px;
+}
+
+nav a {
+    border: 3px solid purple;
+    margin: 20px;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+nav a {
+    border: 3px solid purple;
+    margin: 20px;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+nav a {
+    border: 3px solid purple;
+    margin: 20px;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+nav a {
+    border: 3px solid purple;
+    margin: 20px;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+.block {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.block {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.block {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.block {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.pris {
+    border: 2px solid darkcyan;
+    border-radius: 10px;
+}
+
+.contaktu {
+    border: 3px solid purple;
+    padding: 3px;
+    color: pink;
+    text-decoration: none;
+}
+
+.dujhe {
+    border: 3px solid purple;
+    padding: 3px;
+    color: pink;
+    text-decoration: none;
+}
